@@ -1,0 +1,5 @@
+c:\users\personal\documents\visual studio 2010\Projects\csharp\csharp\bin\Debug\csharp.exe
+c:\users\personal\documents\visual studio 2010\Projects\csharp\csharp\bin\Debug\csharp.pdb
+c:\users\personal\documents\visual studio 2010\Projects\csharp\csharp\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\personal\documents\visual studio 2010\Projects\csharp\csharp\obj\x86\Debug\csharp.exe
+c:\users\personal\documents\visual studio 2010\Projects\csharp\csharp\obj\x86\Debug\csharp.pdb
