@@ -1,24 +1,30 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
-class GradeBookTest{
-   static void Main(string[] args){
+public class GradeBookTest{
+   public static void Main(string[] args){
+      
+      //Create a GradeBook object and assign it to myGradeBook
       GradeBook myGradeBook = new GradeBook();
 
-      myGradeBook.DisplayMessage();
+      //Prompt for course name
+      Console.WriteLine("please enter course name");
+      string nameOfCourse = Console.ReadLine(); //Reads a line puts it in nameOfCourse
+      Console.WriteLine(""); // Outputs Blank Line
+
+      // call myGradeBook's DisplayMessage method and pass nameOfCourse as an argument
+
+
+      myGradeBook.DisplayMessage(nameOfCourse);
       
+      //Print a blank line, tell them to press enter, read return to continue
+      Console.WriteLine("\n");
+      Console.WriteLine("Press Enter To Close");
+      nameOfCourse = Console.ReadLine();
 
 
-   }
-}
+   } //Ends Main
+} //Ends GradeBookTest
 
-public class GradeBook {
-   public void DisplayMessage(){
-      Console.WriteLine("Welcome to the Grade Book");
-    }
-}
 
 
 

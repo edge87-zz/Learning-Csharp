@@ -3,3 +3,8 @@ c:\users\personal\documents\visual studio 2010\Projects\csharp\csharp\bin\Debug\
 c:\users\personal\documents\visual studio 2010\Projects\csharp\csharp\obj\x86\Debug\ResolveAssemblyReference.cache
 c:\users\personal\documents\visual studio 2010\Projects\csharp\csharp\obj\x86\Debug\csharp.exe
 c:\users\personal\documents\visual studio 2010\Projects\csharp\csharp\obj\x86\Debug\csharp.pdb
+C:\Users\Personal\Documents\Visual Studio 2010\Projects\Learning-Csharp\csharp\obj\x86\Debug\csharp.exe
+C:\Users\Personal\Documents\Visual Studio 2010\Projects\Learning-Csharp\csharp\obj\x86\Debug\csharp.pdb
+C:\Users\Personal\Documents\Visual Studio 2010\Projects\Learning-Csharp\csharp\bin\Debug\csharp.exe
+C:\Users\Personal\Documents\Visual Studio 2010\Projects\Learning-Csharp\csharp\bin\Debug\csharp.pdb
+C:\Users\Personal\Documents\Visual Studio 2010\Projects\Learning-Csharp\csharp\obj\x86\Debug\ResolveAssemblyReference.cache
