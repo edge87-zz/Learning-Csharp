@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace snap
+﻿namespace snap
 {
     enum Suit { Club, Diamonds, Spades, Hearts };
 }
