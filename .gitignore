@@ -1,0 +1,9 @@
+#Ignore file for LearningCsharp Repo
+#Ignore the following VS Files
+snap/Properties/*
+snap/obj/*
+snap/bin/*
+
+csharp/Properties/*
+csharp/obj/*
+csharp/bin/*
