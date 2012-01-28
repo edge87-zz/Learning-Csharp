@@ -1,40 +1,80 @@
 <Configuration>
   <RecentFiles>
     <RecentFiles>
-      <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Suit.cs" caret="199" fromTop="12" />
-      <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Rank.cs" caret="249" fromTop="12" />
-      <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Program.cs" caret="187" fromTop="10" />
-      <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Deck.cs" caret="219" fromTop="12" />
-      <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Card.cs" caret="218" fromTop="11" />
+      <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Card.cs" caret="398" fromTop="18" />
+      <File id="85158B6D-91C6-42A1-8026-1506791E4D37/d:Properties/f:AssemblyInfo.cs" caret="0" fromTop="0" />
+      <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Suit.cs" caret="163" fromTop="8" />
+      <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Rank.cs" caret="109" fromTop="6" />
+      <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Program.cs" caret="314" fromTop="15" />
+      <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Deck.cs" caret="512" fromTop="17" />
     </RecentFiles>
     <RecentEdits>
-      <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Program.cs" caret="196" fromTop="10" />
       <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Deck.cs" caret="0" fromTop="0" />
       <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Card.cs" caret="0" fromTop="0" />
       <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Rank.cs" caret="0" fromTop="0" />
+      <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Deck.cs" caret="724" fromTop="19" />
+      <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Deck.cs" caret="363" fromTop="19" />
+      <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Deck.cs" caret="208" fromTop="11" />
+      <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Suit.cs" caret="163" fromTop="6" />
+      <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Deck.cs" caret="557" fromTop="22" />
+      <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Deck.cs" caret="117" fromTop="5" />
       <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Suit.cs" caret="0" fromTop="0" />
-      <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Suit.cs" caret="148" fromTop="9" />
-      <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Rank.cs" caret="221" fromTop="9" />
-      <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Deck.cs" caret="411" fromTop="19" />
-      <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Card.cs" caret="218" fromTop="11" />
+      <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Deck.cs" caret="510" fromTop="17" />
+      <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Suit.cs" caret="115" fromTop="7" />
+      <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Rank.cs" caret="115" fromTop="7" />
+      <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Card.cs" caret="190" fromTop="10" />
+      <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Card.cs" caret="388" fromTop="18" />
+      <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Program.cs" caret="314" fromTop="15" />
     </RecentEdits>
   </RecentFiles>
   <CompletionStatisticsManager>
     <ItemStatistics item="CSharpCodeCompletionContext">
       <Item value="FormatException`0" priority="31" />
       <Item value="private" priority="95" />
-      <Item value="Card`0" priority="30" />
-      <Item value="public" priority="31" />
-      <Item value="Deck`0" priority="31" />
+      <Item value="Card`0" priority="94" />
+      <Item value="public" priority="95" />
+      <Item value="Deck`0" priority="63" />
       <Item value="theCards" priority="31" />
-      <Item value="new" priority="31" />
+      <Item value="new" priority="127" />
       <Item value="ArrayList" priority="28" />
       <Item value="for" priority="63" />
       <Item value="int" priority="63" />
       <Item value="i" priority="95" />
-      <Item value="j" priority="31" />
-      <Item value="Rank`0" priority="31" />
-      <Item value="Suit`0" priority="31" />
+      <Item value="j" priority="95" />
+      <Item value="Rank`0" priority="341" />
+      <Item value="Suit`0" priority="159" />
+      <Item value="_rank" priority="95" />
+      <Item value="rank" priority="31" />
+      <Item value="_suit" priority="63" />
+      <Item value="suit" priority="64" />
+      <Item value="Card" priority="28" />
+      <Item value="return" priority="63" />
+      <Item value="Rank" priority="28" />
+      <Item value="r" priority="31" />
+      <Item value="sbyte" priority="63" />
+      <Item value="Enum`0" priority="63" />
+      <Item value="typeof" priority="63" />
+      <Item value="using" priority="30" />
+      <Item value="snap" priority="62" />
+      <Item value="in" priority="31" />
+      <Item value="this" priority="31" />
+      <Item value="Deck" priority="28" />
+      <Item value="d1" priority="63" />
+      <Item value="Console`0" priority="63" />
+      <Item value="System" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.SByte">
+      <Item value="MinValue" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Enum">
+      <Item value="GetValues`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="26" />
+      <Item value="Read`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:snap.Deck">
+      <Item value="ToString`0" priority="26" />
     </ItemStatistics>
   </CompletionStatisticsManager>
   <NAntValidationSettings>
