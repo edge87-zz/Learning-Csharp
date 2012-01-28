@@ -10,8 +10,13 @@ namespace snap
         {
             
             Deck d1 = new Deck();
-
-            Console.WriteLine(d1.ToString());
+            
+            foreach (Card c in d1.GetDeck())
+            {
+                Console.WriteLine(c.GetValue() +" of "+ c.GetType());
+            }
+            
+            Console.WriteLine();
             Console.Read();
         }
     }
