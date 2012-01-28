@@ -4,20 +4,21 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
+
 namespace snap
 {
     class Deck
     {
         private ArrayList theCards;
-
-        public Deck
+        
+        public Deck()
         {
             theCards = new ArrayList();
-            for (int i = 0; i<=3; i++)
+            foreach (snap.Suit suit in Enum.GetValues(typeof(Suit)))
             {
-                for(int j = 0; j <52; i++)
+                foreach(snap.Rank rank in Enum.GetValues(typeof(Rank)))
                 {
-                    
+                    Card c = new Card(rank, suit);
                 }
             }
         }
