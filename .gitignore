@@ -1,10 +1,16 @@
 #Ignore file for LearningCsharp Repo
-#Ignore the following VS Files
+
+#Ignore File types
+*.suo
+
+#Ignore Snap files
 snap/Properties/*
 !snap/Properties/AssemblyInfo.cs
 snap/obj/*
 snap/bin/*
+snap/snap.6.0.ReSharper.user
 
+#Ignore Csharp files (my personal work from the book)
 csharp/Properties/*
 !snap/Properties/AssemblyInfo.cs
 csharp/obj/*
