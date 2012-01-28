@@ -1,9 +1,11 @@
 #Ignore file for LearningCsharp Repo
 #Ignore the following VS Files
 snap/Properties/*
+!snap/Properties/AssemblyInfo.cs
 snap/obj/*
 snap/bin/*
 
 csharp/Properties/*
+!snap/Properties/AssemblyInfo.cs
 csharp/obj/*
 csharp/bin/*
