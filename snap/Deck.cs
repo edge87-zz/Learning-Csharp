@@ -19,6 +19,10 @@ namespace snap
                 }
             }
         }
+        public ArrayList GetDeck()
+        {
+            return theCards;
+        }
     }
 
 }
