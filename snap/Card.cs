@@ -7,5 +7,8 @@ namespace snap
 {
     class Card
     {
+        private Rank _rank { get; set; }
+        private Suit _suit { get; set; }
+
     }
 }

@@ -1,11 +1,11 @@
 <Configuration>
   <RecentFiles>
     <RecentFiles>
-      <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Card.cs" caret="0" fromTop="0" />
       <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Suit.cs" caret="199" fromTop="12" />
       <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Rank.cs" caret="249" fromTop="12" />
       <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Program.cs" caret="187" fromTop="10" />
-      <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Deck.cs" caret="159" fromTop="9" />
+      <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Deck.cs" caret="219" fromTop="12" />
+      <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Card.cs" caret="218" fromTop="11" />
     </RecentFiles>
     <RecentEdits>
       <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Program.cs" caret="196" fromTop="10" />
@@ -15,13 +15,26 @@
       <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Suit.cs" caret="0" fromTop="0" />
       <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Suit.cs" caret="148" fromTop="9" />
       <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Rank.cs" caret="221" fromTop="9" />
-      <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Deck.cs" caret="159" fromTop="9" />
+      <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Deck.cs" caret="411" fromTop="19" />
+      <File id="85158B6D-91C6-42A1-8026-1506791E4D37/f:Card.cs" caret="218" fromTop="11" />
     </RecentEdits>
   </RecentFiles>
   <CompletionStatisticsManager>
     <ItemStatistics item="CSharpCodeCompletionContext">
       <Item value="FormatException`0" priority="31" />
-      <Item value="private" priority="31" />
+      <Item value="private" priority="95" />
+      <Item value="Card`0" priority="30" />
+      <Item value="public" priority="31" />
+      <Item value="Deck`0" priority="31" />
+      <Item value="theCards" priority="31" />
+      <Item value="new" priority="31" />
+      <Item value="ArrayList" priority="28" />
+      <Item value="for" priority="63" />
+      <Item value="int" priority="63" />
+      <Item value="i" priority="95" />
+      <Item value="j" priority="31" />
+      <Item value="Rank`0" priority="31" />
+      <Item value="Suit`0" priority="31" />
     </ItemStatistics>
   </CompletionStatisticsManager>
   <NAntValidationSettings>
