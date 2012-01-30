@@ -13,6 +13,7 @@ public class GradeBookTest{
 
       // call myGradeBook's DisplayMessage method and pass nameOfCourse as an argument
 
+      myGradeBook.key = 1995;
 
       myGradeBook.DisplayMessage(nameOfCourse);
       

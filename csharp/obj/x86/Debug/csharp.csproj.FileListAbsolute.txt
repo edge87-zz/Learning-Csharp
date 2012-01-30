@@ -13,3 +13,8 @@ I:\My Dropbox\code\edge87\Learning-Csharp\csharp\obj\x86\Debug\csharp.pdb
 I:\My Dropbox\code\edge87\Learning-Csharp\csharp\bin\Debug\csharp.exe
 I:\My Dropbox\code\edge87\Learning-Csharp\csharp\bin\Debug\csharp.pdb
 I:\My Dropbox\code\edge87\Learning-Csharp\csharp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\andrewe\Documents\Visual Studio 2010\LearningC-Sharp\csharp\obj\x86\Debug\csharp.exe
+C:\Users\andrewe\Documents\Visual Studio 2010\LearningC-Sharp\csharp\obj\x86\Debug\csharp.pdb
+C:\Users\andrewe\Documents\Visual Studio 2010\LearningC-Sharp\csharp\bin\Debug\csharp.exe
+C:\Users\andrewe\Documents\Visual Studio 2010\LearningC-Sharp\csharp\bin\Debug\csharp.pdb
+C:\Users\andrewe\Documents\Visual Studio 2010\LearningC-Sharp\csharp\obj\x86\Debug\ResolveAssemblyReference.cache

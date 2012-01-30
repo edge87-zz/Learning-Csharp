@@ -7,6 +7,7 @@ using System;
 public class GradeBook {
    private string courseName;
 
+   public int key { get; set; }
 
    public string CourseName {
       get {
@@ -19,6 +20,6 @@ public class GradeBook {
    }
 
    public void DisplayMessage( string courseName) {
-      Console.WriteLine("Welcome to the grade book for:\n{0}!", CourseName);
+      Console.WriteLine("Welcome to the grade book for:\n{0} {1}!", CourseName, key);
    }
 }
