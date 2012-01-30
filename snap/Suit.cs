@@ -1,4 +1,4 @@
 ﻿namespace snap
 {
-    enum Suit { Club, Diamonds, Spades, Hearts };
+    enum Suit { Clubs, Diamonds, Spades, Hearts };
 }
