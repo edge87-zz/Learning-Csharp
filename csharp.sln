@@ -3,6 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp", "csharp\csharp.csproj", "{ADB3A2FC-E3D0-457E-B149-F0ECAFD4DC9D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{891805A7-82CD-4CF5-A99E-C80A8D7681DA}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\csharp.vsd = ..\..\..\Desktop\csharp.vsd
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86

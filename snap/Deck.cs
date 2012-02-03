@@ -28,6 +28,11 @@ namespace snap
         {
             return theCards;
         }
+
+        public void ShuffleDeck()
+        {
+            theCards.shuffle();
+        }
     }
 
 }

@@ -17,6 +17,8 @@ namespace snap
             {
                 Console.WriteLine(c.GetValue() +" of "+ c.GetType());
             }
+
+            d1.ShuffleDeck();
             
             Console.WriteLine(); // write a new line
             Console.Read();     //pause for input (Enter will do)
