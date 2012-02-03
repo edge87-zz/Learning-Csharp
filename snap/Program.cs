@@ -19,6 +19,14 @@ namespace snap
             }
 
             d1.ShuffleDeck();
+
+            Console.WriteLine("Shuffled Array");
+
+            foreach (Card c in d1.GetDeck())
+            {
+                Console.WriteLine(c.GetValue() + " of " + c.GetType());
+            }
+
             
             Console.WriteLine(); // write a new line
             Console.Read();     //pause for input (Enter will do)
